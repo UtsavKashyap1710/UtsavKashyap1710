@@ -6,6 +6,9 @@
 - Linkedin Profile - https://www.linkedin.com/in/utsav-kashyap-1aaaa4267
 - Codechef Profile - https://www.codechef.com/users/optimal_solver
 - Codeforces Profile - https://codeforces.com/profile/OptimalSolver
+- Leetcode Profile - https://leetcode.com/u/Utsav_K19
+- GeeksforGeeks Profile - https://www.geeksforgeeks.org/user/utsav_17
+- CodingNinjas Profile - https://www.naukri.com/code360/profile/BEAST_17
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I’ve traveled to many different places and am always on the lookout for my next adventure.
 
